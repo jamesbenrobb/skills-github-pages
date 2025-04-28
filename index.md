@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
-blah blah blah
+content: blah blah blah
 ---
 
